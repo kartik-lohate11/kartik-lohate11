@@ -1,8 +1,41 @@
-# kartik-lohate11
-Java Developer with hands-on experience in building scalable backend applications using Core Java, Spring Boot, Spring Security, Hibernate, and REST APIs. Skilled in developing secure and high-performance enterprise applications with expertise in JWT authentication, RBAC, OAuth2, and microservice-based architecture.
+# Hi, I'm Kartik Lohate 👋
 
-Experienced in working with Spring Boot + Vaadin applications, large dataset optimization, Hibernate performance tuning, Apache POI Excel processing, and automation-driven business workflows. Strong understanding of backend system design, database handling, API integration, and production-level problem solving.
+Java Backend Developer | Spring Boot | Spring Security | Docker | Problem Solver
 
-Passionate about writing clean, maintainable, and optimized code with a strong focus on performance improvement, security implementation, and real-world software architecture. Continuously learning advanced backend engineering concepts including scalable system design, reusable starter libraries, and enterprise-grade security solutions.
+I am a backend-focused developer with hands-on experience in building secure, scalable, and production-ready applications using Java and Spring Boot. I work extensively with Spring Security, JWT Authentication, Role-Based Access Control (RBAC), OAuth2, REST APIs, and database-driven enterprise applications.
 
-Currently focused on mastering advanced Java backend development and building impactful projects that solve real business problems with efficient and reliable solutions.
+Along with backend development, I also work on automation testing for complex enterprise systems, improving execution speed, report validation, and large-scale workflow verification.
+
+I enjoy solving real-world engineering problems, optimizing system performance, and designing maintainable solutions that work efficiently in production environments.
+
+## 🔥 Core Skills
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT / OAuth2 / RBAC
+- REST API Development
+- Hibernate / JPA
+- MySQL
+- Apache POI
+- Git / GitHub
+- System Design
+- DSA for Problem Solving
+
+## 🚀 Current Focus
+
+- Building production-grade backend systems
+- Advanced Spring Security architecture
+- Scalable automation frameworks
+- Performance optimization in enterprise applications
+- Writing clean, maintainable, and secure code
+
+## 📈 Mindset
+
+I believe strong engineering is not just about writing code — it is about solving business problems, reducing complexity, and creating systems that are reliable, scalable, and easy to maintain.
+
+I continuously focus on improving both technical depth and practical execution.
+
+## 📫 Connect With Me
+
+Always open to learning, collaboration, and challenging backend engineering problems.
